@@ -1,0 +1,180 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: bisque;
+  color: bisque;
+}
+
+
+#id{
+  
+  position: relative;
+  text-align: right;
+
+ 
+}
+
+#thank{
+  margin-left: 60px;
+  color: rgb(41, 8, 8);
+}
+
+
+
+#mode{
+  background-color: rgb(46, 3, 27);
+  color: bisque;
+  text-align: center;
+  padding-left: 5px;
+  margin-left: 1px;
+  width: 100px;
+  height: 30px;
+ 
+  
+}
+#mode:hover{
+  width: 130px;
+  height: 40p;
+  background-color: rgb(53, 42, 42);
+}
+
+#h11{
+  text-align: center;
+  background-color: rgb(41, 8, 8);
+  color: bisque;
+  margin: bottom 0;
+  
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+/* methode 2 */
+.light{
+background-color: bisque;
+
+color: bisque;
+}
+.dark{
+  background-color: rgb(35, 2, 2);
+  color: bisque;
+  }
+  
+ #container{
+  text-align: center;
+  margin-bottom: 400px;
+
+ 
+  position: relative;
+  top: 30px;
+ }
+ 
+ #i1{
+  height: 75px;
+  width: 300px;
+  font-size:x-large;
+  font-style: bold;
+  background-color:rgb(41, 8, 8);
+  color: bisque;
+  border-radius: 1rem;
+ 
+ }
+ #i1:hover{
+  background-color: rgb(53, 42, 42);
+ }
+ #i2:hover{
+  background-color: rgb(53, 42, 42);
+ }
+ #i3:hover{
+  background-color: rgb(53, 42, 42);
+ }
+ #i2{
+  height: 75px;
+  width: 300px;
+  font-size:x-large;
+  font-style: bold;
+  background-color:rgb(41, 8, 8);
+  color: bisque;
+  border-radius: 1rem;
+ }
+ #i3{
+  height: 75px;
+  width: 300px;
+  font-size:x-large;
+  font-style: bold;
+  background-color:rgb(41, 8, 8);
+  color: bisque;
+  border-radius: 1rem;
+  
+ }
+ 
+  
+ 
+ #me{
+  background-color:  rgb(208, 199, 199);
+  height: 150px;
+  width: 200px;
+  font-size: large;
+  text-align: center;
+  color: rgb(41, 8, 8);
+
+ }
+ #Policy{
+  background-color: rgb(208, 199, 199);
+  height: 150px;
+  width: 150px;
+  font-size: large;
+  text-align: center;
+  color: rgb(41, 8, 8);
+  list-style-type: none;
+  
+  
+ }
+ #cont{
+  width: 100%;
+  background-color: rgb(208, 199, 199);
+  height: 500px;
+  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ }
+ 
+  #id1{
+    height: 15px;
+    width: 120px;
+    display: inline-block;
+    
+    
+  }
+  #id2{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+   
+    position: relative;
+    bottom: 10px;
+    right: 55px;
+    
+    color: rgb(41, 8, 8);
+    font-size: xx-large;
+    font-style: italic;
+  } 
+  
+   #photo{
+    display: inline-block;
+    text-align: left;
+    height: 155px;
+    width: 315px;
+    border: 10px solid ;
+    border-color: rgb(35, 2, 2);
+    
+    
+    position: relative;
+    
+    bottom: 30px;
+  
+  }
+  
