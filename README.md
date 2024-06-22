@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet0808&label=Profile%20views&color=0e75b6&style=flat" alt="jeet0808" /> </p>
 
 
-- 🔭 I’m currently working on [Personal BIO-Website](https://jeet0808.github.io/JLSS/)
+- 🔭 I’m currently working on [Personal BIO-Website](https://jeet0808.github.io/JLSS-v.1.1-main/)
 
 - 🌱 I’m currently learning **Programing languages**
 
-- 👨‍💻 All of my projects are available at [https://jeet0808.github.io/JlSS/](https://jeet0808.github.io/JLSS/)
+- 👨‍💻 All of my projects are available at [https://jeet0808.github.io/JlSS/](https://jeet0808.github.io/JLSS-v.1.1-main/)
 
 - 💬 Ask me about **Programing languages**
 
