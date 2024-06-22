@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Programing languages**
 
-- 👨‍💻 All of my projects are available at [https://jeet0808.github.io/JlSS/](https://jeet0808.github.io/JlSS/)
+- 👨‍💻 All of my projects are available at [https://jeet0808.github.io/JlSS/](https://jeet0808.github.io/JLSS/)
 
 - 💬 Ask me about **Programing languages**
 
